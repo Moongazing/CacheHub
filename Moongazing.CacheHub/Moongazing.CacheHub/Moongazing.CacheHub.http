@@ -1,0 +1,6 @@
+@Moongazing.CacheHub_HostAddress = http://localhost:5280
+
+GET {{Moongazing.CacheHub_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
